@@ -1,2 +1,4 @@
 # hello-world
-Github intro practice
+
+This is for class.
+Woohoo!
